@@ -1,0 +1,164 @@
+[
+    {
+        "uid": "Desktop.Form1",
+        "type": "Reference.Managed",
+        "memberType": "Class",
+        "name": "Desktop.Form1",
+        "title": "Form1",
+        "sourceFile": "reference\\Desktop.Form1.yml",
+        "detailedType": 3
+    },
+    {
+        "uid": "Desktop.Form1.#ctor",
+        "type": "Reference.Managed",
+        "memberType": "Constructor",
+        "name": "Desktop.Form1.Form1()",
+        "title": "Form1.Form1()",
+        "sourceFile": "reference\\Desktop.Form1.yml",
+        "detailedType": 5
+    },
+    {
+        "uid": "Desktop.Form1.Dispose(System.Boolean)",
+        "type": "Reference.Managed",
+        "memberType": "Method",
+        "name": "Desktop.Form1.Dispose(System.Boolean)",
+        "title": "Form1.Dispose(Boolean)",
+        "sourceFile": "reference\\Desktop.Form1.yml",
+        "detailedType": 5
+    },
+    {
+        "uid": "Desktop",
+        "type": "Reference.Managed",
+        "memberType": "Namespace",
+        "name": "Desktop",
+        "title": "Desktop",
+        "sourceFile": "reference\\Desktop.yml",
+        "detailedType": 2
+    },
+    {
+        "uid": "Lib.Class1",
+        "type": "Reference.Managed",
+        "memberType": "Class",
+        "name": "Lib.Class1",
+        "title": "Class1",
+        "sourceFile": "reference\\Lib.Class1.yml",
+        "detailedType": 3
+    },
+    {
+        "uid": "Lib.Class1.Func",
+        "type": "Reference.Managed",
+        "memberType": "Method",
+        "name": "Lib.Class1.Func()",
+        "title": "Class1.Func()",
+        "sourceFile": "reference\\Lib.Class1.yml",
+        "detailedType": 5
+    },
+    {
+        "uid": "Lib.Customer",
+        "type": "Reference.Managed",
+        "memberType": "Class",
+        "name": "Lib.Customer",
+        "title": "Customer",
+        "sourceFile": "reference\\Lib.Customer.yml",
+        "detailedType": 3
+    },
+    {
+        "uid": "Lib.Customer.ObtenirConnectionStrings",
+        "type": "Reference.Managed",
+        "memberType": "Method",
+        "name": "Lib.Customer.ObtenirConnectionStrings()",
+        "title": "Customer.ObtenirConnectionStrings()",
+        "sourceFile": "reference\\Lib.Customer.yml",
+        "detailedType": 5
+    },
+    {
+        "uid": "Lib",
+        "type": "Reference.Managed",
+        "memberType": "Namespace",
+        "name": "Lib",
+        "title": "Lib",
+        "sourceFile": "reference\\Lib.yml",
+        "detailedType": 2
+    },
+    {
+        "uid": "SqlBuilder.Category.TestCategory",
+        "type": "Reference.Managed",
+        "memberType": "Class",
+        "name": "SqlBuilder.Category.TestCategory",
+        "title": "TestCategory",
+        "sourceFile": "reference\\SqlBuilder.Category.TestCategory.yml",
+        "detailedType": 3
+    },
+    {
+        "uid": "SqlBuilder.Category.TestCategory.TestMet",
+        "type": "Reference.Managed",
+        "memberType": "Method",
+        "name": "SqlBuilder.Category.TestCategory.TestMet()",
+        "title": "TestCategory.TestMet()",
+        "sourceFile": "reference\\SqlBuilder.Category.TestCategory.yml",
+        "detailedType": 5
+    },
+    {
+        "uid": "SqlBuilder.Category",
+        "type": "Reference.Managed",
+        "memberType": "Namespace",
+        "name": "SqlBuilder.Category",
+        "title": "SqlBuilder.Category",
+        "sourceFile": "reference\\SqlBuilder.Category.yml",
+        "detailedType": 2
+    },
+    {
+        "uid": "SqlBuilder.Class1",
+        "type": "Reference.Managed",
+        "memberType": "Class",
+        "name": "SqlBuilder.Class1",
+        "title": "Class1",
+        "sourceFile": "reference\\SqlBuilder.Class1.yml",
+        "detailedType": 3
+    },
+    {
+        "uid": "SqlBuilder.Entities.Client",
+        "type": "Reference.Managed",
+        "memberType": "Class",
+        "name": "SqlBuilder.Entities.Client",
+        "title": "Client",
+        "sourceFile": "reference\\SqlBuilder.Entities.Client.yml",
+        "detailedType": 3
+    },
+    {
+        "uid": "SqlBuilder.Entities.Client.TestMethod",
+        "type": "Reference.Managed",
+        "memberType": "Method",
+        "name": "SqlBuilder.Entities.Client.TestMethod()",
+        "title": "Client.TestMethod()",
+        "sourceFile": "reference\\SqlBuilder.Entities.Client.yml",
+        "detailedType": 5
+    },
+    {
+        "uid": "SqlBuilder.Entities.Municipalite",
+        "type": "Reference.Managed",
+        "memberType": "Class",
+        "name": "SqlBuilder.Entities.Municipalite",
+        "title": "Municipalite",
+        "sourceFile": "reference\\SqlBuilder.Entities.Municipalite.yml",
+        "detailedType": 3
+    },
+    {
+        "uid": "SqlBuilder.Entities",
+        "type": "Reference.Managed",
+        "memberType": "Namespace",
+        "name": "SqlBuilder.Entities",
+        "title": "SqlBuilder.Entities",
+        "sourceFile": "reference\\SqlBuilder.Entities.yml",
+        "detailedType": 2
+    },
+    {
+        "uid": "SqlBuilder",
+        "type": "Reference.Managed",
+        "memberType": "Namespace",
+        "name": "SqlBuilder",
+        "title": "SqlBuilder",
+        "sourceFile": "reference\\SqlBuilder.yml",
+        "detailedType": 2
+    }
+]

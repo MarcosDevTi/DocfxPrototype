@@ -1,0 +1,736 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/ministere/DocFx/DocFx-Demo/docs/DocFx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Abstract.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Abstract.html",
+          "hash": "8wJZufCdgoslig7hKeMdwA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Advanced/Abstract.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Advanced/Abstract.html",
+          "hash": "mhCZQRCz9vqgI+I511IYeQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Advanced/Advanced.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Advanced/Advanced.html",
+          "hash": "nzKLAiu0Vf/FY4337jFRNg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Menu Test 2/Abstract.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Menu Test 2/Abstract.html",
+          "hash": "9BCIvKeR8W1Ds0u5A1IFFA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/Menu Test 2/Easy.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Menu Test 2/Easy.html",
+          "hash": "RXauFExgF/Udwbc+czoMwA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Concepts/Menu Test 2/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/Menu Test 2/toc.html",
+          "hash": "b1bzanLrCLzCwoIrXOe9mQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidTocInclude",
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "Concepts/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/toc.html",
+          "hash": "3CttoTuX5arkI4BTmuOelw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink",
+        "codesnippet-not-found"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/advanced_support_hyperlink.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/advanced_support_hyperlink.html",
+          "hash": "Hbs6voQXfk3zMG8M6US3ag=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/docfx.exe_user_manual.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/docfx.exe_user_manual.html",
+          "hash": "gwqHZT30KL4O68bqWmgW6g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/docfx_getting_started.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/docfx_getting_started.html",
+          "hash": "HFvs2bz+jXvL7N/5aaPasg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/howto_add_a_customized_post_processor.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/howto_add_a_customized_post_processor.html",
+          "hash": "BTV6LYUMZBunatkb5OD+rQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink",
+        "codesnippet-not-found"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/howto_build_your_own_type_of_documentation_with_custom_plug-in.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/howto_build_your_own_type_of_documentation_with_custom_plug-in.html",
+          "hash": "y4ad5WaWIQ4Jt1C8XP3kSQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/howto_create_custom_template.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/howto_create_custom_template.html",
+          "hash": "G6xhVqrddBPALW2nmPdXKg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/howto_customize_docfx_flavored_markdown.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/howto_customize_docfx_flavored_markdown.html",
+          "hash": "1orCkxhzBVSWbCunBxXGVQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/howto_filter_out_unwanted_apis_attributes.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/howto_filter_out_unwanted_apis_attributes.html",
+          "hash": "jnFkYvdxAzWkKhjpqcROCQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Concepts/tutorial/images/simple_web_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "Concepts/tutorial/images/simple_web_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Concepts/tutorial/images/toc_web_page.png",
+      "output": {
+        "resource": {
+          "relative_path": "Concepts/tutorial/images/toc_web_page.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Concepts/tutorial/images/web_page_with_extra_property.png",
+      "output": {
+        "resource": {
+          "relative_path": "Concepts/tutorial/images/web_page_with_extra_property.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/incrementalbuild/advanced_cache_file_structure.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/incrementalbuild/advanced_cache_file_structure.html",
+          "hash": "zTJY40IJhcmYcadygxBMdA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/incrementalbuild/advanced_report_dependency.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/incrementalbuild/advanced_report_dependency.html",
+          "hash": "lVidQ6Aa01je8RLXBPNcGg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/incrementalbuild/customize_a_post_processor_to_be_incremental.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/incrementalbuild/customize_a_post_processor_to_be_incremental.html",
+          "hash": "j4gZ0h+5nRzvER0ONFrkFQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/incrementalbuild/customize_a_processor_to_support_incremental.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/incrementalbuild/customize_a_processor_to_support_incremental.html",
+          "hash": "AXg4CeMSfAMisDF4uE4SbA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Concepts/tutorial/incrementalbuild/images/incrementalbuildframework.png",
+      "output": {
+        "resource": {
+          "relative_path": "Concepts/tutorial/incrementalbuild/images/incrementalbuildframework.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Concepts/tutorial/incrementalbuild/images/incrementalpostprocessingframework.png",
+      "output": {
+        "resource": {
+          "relative_path": "Concepts/tutorial/incrementalbuild/images/incrementalpostprocessingframework.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/incrementalbuild/intro_incremental_build.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/incrementalbuild/intro_incremental_build.html",
+          "hash": "w9N5n3CIzbXu2Dpn4Ev9JQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/incrementalbuild/intro_incremental_post_processing.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/incrementalbuild/intro_incremental_post_processing.html",
+          "hash": "I4DDdSsoEZIh1381BQaEBw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/intro_default_template.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/intro_default_template.html",
+          "hash": "ORdEDPt3CZO/Ry5gSsvtsg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/intro_markdown_lite.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/intro_markdown_lite.html",
+          "hash": "C5g/y8OMUxuo41fUtGGVGg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/intro_overwrite_files.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/intro_overwrite_files.html",
+          "hash": "Z4UxnCfuudRuiW4QTGJ+Fg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/intro_rest_api_documentation.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/intro_rest_api_documentation.html",
+          "hash": "4iXuqa5OQAW4q1rcPALqiA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/intro_template.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/intro_template.html",
+          "hash": "Oych87uhmHLvjZ6niRtlog=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/intro_toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/intro_toc.html",
+          "hash": "WKctrr7Jv5Cs2t6eTsBfrA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink",
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/links_and_cross_references.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/links_and_cross_references.html",
+          "hash": "g4+4rVaLA83KnAaAbrui6g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/universalreference/gen_doc_for_js.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/universalreference/gen_doc_for_js.html",
+          "hash": "foUy1q6m5EkMsHmZTp+5HA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/universalreference/gen_doc_for_ts.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/universalreference/gen_doc_for_ts.html",
+          "hash": "6mPZWQ70v1+e2S9iCIY/tw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/universalreference/intro_multiple_langs_support.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/universalreference/intro_multiple_langs_support.html",
+          "hash": "Xh2qs/Qg+c8GAgXZT7MyAg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink",
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/validate_your_markdown_files.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/validate_your_markdown_files.html",
+          "hash": "KXwCht+JS1UHc9QtIqe2hg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/walkthrough/advanced_walkthrough.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/walkthrough/advanced_walkthrough.html",
+          "hash": "67/C7aVshAZjPvrVXfq8sg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Concepts/tutorial/walkthrough/images/uid.png",
+      "output": {
+        "resource": {
+          "relative_path": "Concepts/tutorial/walkthrough/images/uid.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Concepts/tutorial/walkthrough/images/walkthrough2_step3.png",
+      "output": {
+        "resource": {
+          "relative_path": "Concepts/tutorial/walkthrough/images/walkthrough2_step3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Concepts/tutorial/walkthrough/images/walkthrough2_step4.png",
+      "output": {
+        "resource": {
+          "relative_path": "Concepts/tutorial/walkthrough/images/walkthrough2_step4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Concepts/tutorial/walkthrough/images/walkthrough2_step5.png",
+      "output": {
+        "resource": {
+          "relative_path": "Concepts/tutorial/walkthrough/images/walkthrough2_step5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Concepts/tutorial/walkthrough/images/walkthrough3.png",
+      "output": {
+        "resource": {
+          "relative_path": "Concepts/tutorial/walkthrough/images/walkthrough3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Concepts/tutorial/walkthrough/images/walkthrough_api.png",
+      "output": {
+        "resource": {
+          "relative_path": "Concepts/tutorial/walkthrough/images/walkthrough_api.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Concepts/tutorial/walkthrough/images/walkthrough_homepage.png",
+      "output": {
+        "resource": {
+          "relative_path": "Concepts/tutorial/walkthrough/images/walkthrough_homepage.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Concepts/tutorial/walkthrough/images/walkthrough_simple_homepage.png",
+      "output": {
+        "resource": {
+          "relative_path": "Concepts/tutorial/walkthrough/images/walkthrough_simple_homepage.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Concepts/tutorial/walkthrough/images/walkthrough_step5.png",
+      "output": {
+        "resource": {
+          "relative_path": "Concepts/tutorial/walkthrough/images/walkthrough_step5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/walkthrough/walkthrough_create_a_docfx_project.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/walkthrough/walkthrough_create_a_docfx_project.html",
+          "hash": "TXPrzTCUzr08RLYw0mp1wA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/walkthrough/walkthrough_create_a_docfx_project_2.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/walkthrough/walkthrough_create_a_docfx_project_2.html",
+          "hash": "IV0+vuI/sDai3rVe67y6wg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/walkthrough/walkthrough_generate_pdf.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/walkthrough/walkthrough_generate_pdf.html",
+          "hash": "/X9mv5Tljgx11TVO1tvV9A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Concepts/tutorial/walkthrough/walkthrough_overview.md",
+      "output": {
+        ".html": {
+          "relative_path": "Concepts/tutorial/walkthrough/walkthrough_overview.html",
+          "hash": "4Wq6b7jS73QhOMcZ8A8aNw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "KUpI+1K0S0RjW4UWMCiEfw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "u5cFW9e1YqjueNFTaqFP9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 36,
+          "skipped_file_count": 36
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

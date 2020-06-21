@@ -1,0 +1,9 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: intro_toc
+  name: Table-Of-Content (TOC) Files
+  href: Concepts/tutorial/intro_toc.html
+- uid: user_manual
+  name: docfx.exe User Manual
+  href: Concepts/tutorial/docfx.exe_user_manual.html
